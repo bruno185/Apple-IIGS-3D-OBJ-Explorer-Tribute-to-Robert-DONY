@@ -2,6 +2,7 @@
 
 **A Tribute to Robert DONY**  
 *Author of "Calcul des parties cachées", Masson, 1986*
+![robert dony book](Screenshots/robert_dony_book.jpg)
 
 A 3D model viewer and explorer implementing multiple painter's algorithms, specifically designed for the Apple IIGS computer using ORCA/C and the QuickDraw graphics API.
 
